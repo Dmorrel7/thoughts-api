@@ -1,5 +1,6 @@
 const { User } = require('../models/index');
 
+
 const userController = {
 
     // get all users

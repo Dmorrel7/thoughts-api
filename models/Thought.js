@@ -15,6 +15,7 @@ const ThoughtSchema = new Schema(
             minLength: 1,
             maxLength: 280
         },
+    
         createdAt: {
             type: Date,
             default: Date.now,
